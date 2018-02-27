@@ -6,7 +6,6 @@ Overview:
 - Dijkstra: Implement Dijkstra's algorithm
 - Recursion: create isPalindrome(), digitSum(), waysToClimb() a staircase, by applying recursion 
 - GG1_Simulator: Queuing simulator which simulates a G/G/1 queue (only a prototype) 
-- SSTF: Write a SSTF disk simulator, to demonstrate how a disk works better during higher workloads 
 - BigInteger: Develop a BigInteger() function that displays big versions of integers, but do it in the most efficient way possible (procedural programming). 
 
 
