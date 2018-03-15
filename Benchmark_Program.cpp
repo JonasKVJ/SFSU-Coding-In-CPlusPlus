@@ -64,7 +64,7 @@ void printMatrix(vector< vector<float> > &m, int size) //pass by reference
     return;
 }
 
-//Floating point Matrix addition benchmark function
+//Floating point Matrix multiplication benchmark function
 unsigned long m_multiply (vector< vector<float> > &m1, vector< vector<float> > &m2, int size)
 {
     unsigned long N_FLOAT = 0;
