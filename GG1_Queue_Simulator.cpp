@@ -1,6 +1,6 @@
 //  HW4_GGISimulator
 //  CSC 675 [01] - Computer Performance Evaluation | Fall-17
-//  Jonas Vinter-Jensen | ID 912941515
+//  Jonas Vinter-Jensen
 
 #include <iostream>
 #include <stdio.h>
